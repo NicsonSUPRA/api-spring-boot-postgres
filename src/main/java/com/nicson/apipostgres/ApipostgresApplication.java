@@ -10,4 +10,6 @@ public class ApipostgresApplication {
 		SpringApplication.run(ApipostgresApplication.class, args);
 	}
 
+	// commentario teste para testar commit
+
 }
